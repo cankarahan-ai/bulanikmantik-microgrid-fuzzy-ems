@@ -94,7 +94,7 @@ microgrid-fuzzy-ems/
 │   └── Microgrid_Fuzzy_EMS_Colab.ipynb
 ├── data/
 │   └── README.md
-│   sunumlar/
+├── sunumlar/
 │    └── BulanıkMantık_EMS_Sunum.pptx
 │    └──BulanıkMantık_EMS_Sunum_PDF.pdf
 └── results/
