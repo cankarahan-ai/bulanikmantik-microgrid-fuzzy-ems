@@ -4,6 +4,8 @@
 **Can KARAHAN — 1306210004**  
 **İstanbul Üniversitesi-Cerrahpaşa, Bilgisayar Mühendisliği**
 
+** Google Colab Link **  : https://colab.research.google.com/github/cankarahan-ai/bulanikmantik-microgrid-fuzzy-ems/blob/main/experiments/Microgrid_Fuzzy_EMS_Colab.ipynb
+
 ## Proje Hakkında
 
 Bu projede, güneş enerjisi (PV), tüketim yükü ve bataryadan oluşan bir mikroşebekede enerji yönetimini bulanık mantıkla ele aldım. Çıkış noktası olarak Nur-E-Alam ve arkadaşlarının 2025 yılında yayımladığı mikroşebeke enerji yönetimi çalışmasını kullandım. Makalede sunulan iki girişli, dokuz kurallı Mamdani bulanık çıkarım sistemini Python ile yeniden kurdum. Ardından batarya doluluk sınırlarında şarj ve deşarj komutlarını yönlerine göre kademeli sınırlayan alternatif bir kontrol yaklaşımını aynı deney koşullarında karşılaştırdım.
